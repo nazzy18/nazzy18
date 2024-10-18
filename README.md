@@ -1,7 +1,7 @@
 👋 Oh Hello there!, name given *Mohamad Nazri*.
 
 **About Me:**
-- 👨🏻‍💻 I’m a Full Stack Developer.
+- 👨🏻‍💻 I’m a Full Stack Engineer.
 - 💼 I’m currently working at <a href="https://www.linkedin.com/company/myces-energy-consultant/" target="_blank">MyCES Sdn. Bhd.</a>
 - 🌱 I’m currently learning __Vue__, __Quasar__, __NestJS__, __TypeScript__ & __TypeORM__.
 - 👀 I’m interested in Development, Servers and NAS.
